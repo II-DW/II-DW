@@ -2,8 +2,6 @@
 
 [대건고등학교 (Daegun High School)](https://daegun.dge.hs.kr/daegunh/main.do?sysId=daegunh)
 
-<br />
-<br />
 
 # 📜 Launguage
 
