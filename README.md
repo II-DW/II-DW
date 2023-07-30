@@ -6,28 +6,28 @@
 # 📜 Launguage
 
 
-## 1. Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>
-⭐⭐⭐⭐⭐
+### 1. Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>
+    ⭐⭐⭐⭐⭐
 
-## 2. JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>
-⭐⭐⭐⭐★
+### 2. JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>
+    ⭐⭐⭐⭐★
 
-## 3. R <img src="https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=276DC3"/>
-⭐⭐★★★
+### 3. R <img src="https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=276DC3"/>
+    ⭐⭐★★★
 
 
-## 4. Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>
-⭐★★★★
+### 4. Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>
+    ⭐★★★★
 
 <br />
 
 # 📂 Main Project
 
 
-## 1. [코로나 확진자 수 예측 자동응답봇](https://github.com/II-DW/Predict_Bot)
+### 1. [코로나 확진자 수 예측 자동응답봇](https://github.com/II-DW/Predict_Bot)
 
 <details>
-<summary> 세부사항 확인하기 </summary>
+<summary> &nbsp; &nbsp; 세부사항 확인하기 </summary>
 <div markdown='1'>
 
 |**Label**|Value|
@@ -40,10 +40,10 @@
 </div>
 </details>
 
-## 2. [수학 문제해설 사이트](https://github.com/II-DW/Math-Answer)
+### 2. [수학 문제해설 사이트](https://github.com/II-DW/Math-Answer)
 
 <details>
-<summary> 세부사항 확인하기 </summary>
+<summary> &nbsp; &nbsp; 세부사항 확인하기 </summary>
 <div markdown='1'>
 
 |**Label**|Value|
@@ -56,10 +56,10 @@
 </div>
 </details>
 
-## 3. [AI 챗봇](https://github.com/II-DW/Predict_Bot)
+### 3. [AI 챗봇](https://github.com/II-DW/AiChatBot)
 
 <details>
-<summary> 세부사항 확인하기 </summary>
+<summary> &nbsp;&nbsp; 세부사항 확인하기 </summary>
 <div markdown='1'>
 
 |**Label**|Value|
