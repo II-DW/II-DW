@@ -9,7 +9,7 @@
 |**Launguage**|Star|
 |:--:|:--:|
 | Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>| ⭐⭐⭐⭐⭐|
-| 2. JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
+| JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
 |Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>|⭐★★★★|
 
 <br />
