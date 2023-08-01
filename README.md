@@ -8,9 +8,9 @@
 
 |**Launguage**|Star|
 |:--:|:--:|
-| Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>| ⭐⭐⭐⭐⭐|
-| JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
-|Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>|⭐★★★★|
+| <img src="https://img.shields.io/badge/Python-black?&logo=python"/>| ⭐⭐⭐⭐⭐|
+| <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
+|<img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>|⭐★★★★|
 
 <br />
 
