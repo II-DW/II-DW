@@ -6,18 +6,11 @@
 # 📜 Launguage
 
 
-### 1. Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>
-    ⭐⭐⭐⭐⭐
-
-### 2. JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>
-    ⭐⭐⭐⭐★
-
-### 3. R <img src="https://img.shields.io/badge/R-black?style=flat&logo=R&logoColor=276DC3"/>
-    ⭐⭐★★★
-
-
-### 4. Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>
-    ⭐★★★★
+|**Launguage**|Star|
+|:--:|:--:|
+| Python <img src="https://img.shields.io/badge/Python-black?&logo=python"/>| ⭐⭐⭐⭐⭐|
+| 2. JavaScript <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
+|Dart <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>|⭐★★★★|
 
 <br />
 
