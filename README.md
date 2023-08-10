@@ -1,7 +1,7 @@
 # 👨‍💻 Organization
 
 [대건고등학교 (Daegun High School)](https://daegun.dge.hs.kr/daegunh/main.do?sysId=daegunh)
-
+[대건고등학교 GitHub (Daegun High School) Github](https://github.com/DaegunManga)
 
 # 📜 Launguage
 
