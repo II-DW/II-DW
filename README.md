@@ -4,7 +4,7 @@
 
 [대건고등학교 GitHub (Daegun High School Github)](https://github.com/DaegunManga)
 
-[중앙대학교 (Chung-Ang University)]([https://github.com/DaegunManga](https://www.cau.ac.kr/index.do)
+[중앙대학교 (Chung-Ang University)](https://www.cau.ac.kr/index.do)
 
 # 📜 Launguage
 
