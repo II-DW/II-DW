@@ -66,6 +66,38 @@
 </div>
 </details>
 
+### 4. [대건고등학교 인생네컷 사진촬영시스템](https://github.com/DaegunManga/DaegunFourCut)
+<details>
+<summary> &nbsp;&nbsp; 세부사항 확인하기 </summary>
+<div markdown='1'>
+
+|**Label**|Value|
+|:--:|:--:|
+|📜 Launguage| <img src="https://img.shields.io/badge/Python-black?&logo=python"/>|
+|🖥 Module|  <img src="https://img.shields.io/badge/PyQt-black?&logo=PyQt"/> |
+|📅 Term|2023.07.25 ~ 2024.11.19|
+|✔ Result| -|
+
+</div>
+</details>
+
+### 5. [대건고등학교 지능형문헌정보검색시스템:LIBRO](https://github.com/II-DW/LIBRO)
+
+<details>
+<summary> &nbsp;&nbsp; 세부사항 확인하기 </summary>
+<div markdown='1'>
+
+|**Label**|Value|
+|:--:|:--:|
+|📜 Launguage| <img src="https://img.shields.io/badge/Python-black?&logo=python"/>|
+|🖥 Module|  <img src="https://img.shields.io/badge/Tensorflow-black?&logo=Tensorflow"/> |
+|📅 Term|2024.07.22 ~ 2024.08.13|
+|✔ Result| The Server is closed now.|
+
+</div>
+</details>
+
+
 # 📋 Github Stats
 
 
