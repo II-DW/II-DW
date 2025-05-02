@@ -102,4 +102,4 @@
 
 # 🏆 Achievements
 
-제 5회 청소년 ICT 창업가 경진대회 교육부 장관상
+제 8회 Global Innovator Festa 대상 (교육부 장관상)
