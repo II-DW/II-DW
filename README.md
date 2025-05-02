@@ -6,15 +6,6 @@
 
 [중앙대학교 (Chung-Ang University)](https://www.cau.ac.kr/index.do)
 
-# 📜 Launguage
-
-
-|**Launguage**|Star|
-|:--:|:--:|
-| <img src="https://img.shields.io/badge/Python-black?&logo=python"/>| ⭐⭐⭐⭐⭐|
-| <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript"/> <img src="https://img.shields.io/badge/React-black?style=flat&logo=React"/>|⭐⭐⭐⭐★|
-|<img src="https://img.shields.io/badge/Dart-black?style=flat&logo=Dart&logoColor=skyblue"/>|⭐★★★★|
-
 # 📂 Main Project
 
 
