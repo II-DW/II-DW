@@ -88,7 +88,7 @@
 </div>
 </details>
 
-### 5. [파이썬 모듈 없이 CNN 만들어보기](https://github.com/II-DW/SelfMadeAI)
+### 6. [파이썬 모듈 없이 CNN 만들어보기](https://github.com/II-DW/SelfMadeAI)
 
 <details>
 <summary> &nbsp;&nbsp; 세부사항 확인하기 </summary>
