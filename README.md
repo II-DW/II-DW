@@ -88,6 +88,21 @@
 </div>
 </details>
 
+### 5. [파이썬 모듈 없이 CNN 만들어보기](https://github.com/II-DW/SelfMadeAI)
+
+<details>
+<summary> &nbsp;&nbsp; 세부사항 확인하기 </summary>
+<div markdown='1'>
+
+|**Label**|Value|
+|:--:|:--:|
+|📜 Launguage| <img src="https://img.shields.io/badge/Python-black?&logo=python"/>|
+|🖥 Module|  |
+|📅 Term|2024.06.07 ~ 2024.06.13|
+|✔ Result| Slightly decreased loss.|
+
+</div>
+</details>
 
 # 📋 Github Stats
 
